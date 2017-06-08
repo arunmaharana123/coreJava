@@ -1,4 +1,4 @@
-package collection.List;
+package collection;
 
 import java.io.IOException;
 import java.util.ArrayList;
